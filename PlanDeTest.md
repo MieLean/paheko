@@ -1,8 +1,8 @@
 # PLAN DE TEST
 
 Nom du projet : Paheko
-Responsable des tests : Marilyn Nginn (QA)
-Date : 04 septembre 2024
+Responsable des tests : M.N (QA)
+Date : 11 août 2024
 
 ## INTRODUCTION
 Paheko est un logiciel de gestion d'association, libre, simple et efficace, développé depuis 2012. Son but est de :
@@ -20,9 +20,10 @@ L'objectif de ce plan de test est de définir la stratégie de test, les ressour
 - Gestion des utilisateurs et des droits d'accès
 - Interface utilisateur (UI) : navigation, responsivité, accessibilité
 - Performance et stabilité de l'application sous charge
+- API
 
 ### Fonctionnalités non testées (Hors portée):
-- Test de sécurité avancés
+- Tests de sécurité avancés (simulation d'attaque par exemple)
 
 ## APPROCHE DES TESTS
 ### Types de test :
